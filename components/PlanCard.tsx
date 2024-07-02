@@ -19,7 +19,11 @@ const PlanCard = ({ plan }: PlanCardProps) => {
               {plan.references.map((reference) => (
                 <li className='text-white'>
                   {reference.startsWith('http')
-                    ? <a href={reference}>{reference}</a>
+                    ? (
+                      <a href={reference} target='_blank' rel='noreferrer noopener'>
+                        {reference}
+                      </a>
+                    )
                     : <p>{reference}</p>}
                 </li>
               ))}

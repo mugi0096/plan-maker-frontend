@@ -45,7 +45,11 @@ export default function Layout({ Component, state }: PageProps) {
               <Component />
             </main>
             <footer class='mt-auto opacity-95 bg-white h-16 w-full border-t-2 p-4'>
-              <a href='https://fresh.deno.dev'>
+              <a
+                href='https://fresh.deno.dev'
+                target='_blank'
+                rel='noreferrer noopener'
+              >
                 <img
                   width='197'
                   height='37'
