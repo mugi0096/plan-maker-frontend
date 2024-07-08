@@ -1,9 +1,12 @@
-# Fresh project
+# Plan Maker
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+![](https://github.com/mugi0096/plan-maker-frontend/blob/main/static/readme-image.jpg?raw=true)
 
-### Usage
+This service will make your weekly plans. You will just choose category&topic and AI will make your plan.
+
+https://plan-maker.deno.dev/
+
+### For developers
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
