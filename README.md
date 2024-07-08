@@ -1,6 +1,6 @@
 # Plan Maker
 
-![](https://github.com/mugi0096/plan-maker-frontend/blob/main/static/readme-image.jpg?raw=true)
+![](https://github.com/mugi0096/plan-maker-frontend/blob/main/static/readme-image.png?raw=true)
 
 This service will make your weekly plans. You will just choose category&topic and AI will make your plan.
 
